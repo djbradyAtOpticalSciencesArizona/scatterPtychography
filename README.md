@@ -10,7 +10,7 @@ Core packages:
 * numpy
 
 Folders & files:
-* datasets/: contain scatter images of the resolution chart at positions 0~50mm.
+* datasets: contain scatter images of targets 'usaf' (resolution chart), 'a', 'osc', and 'uoa' at positions 0~50mm on the stage.
 * Demo.ipynb: a demo of experimental reconstructions. Change target_name to switch between 'usaf' (resolution chart), 'a', 'osc', or 'uoa'.
 * Demo_simulation.ipynb: a demo of synthetic reconstruction of the resolution chart.
 * requirements.txt: all packages on UA HPC. Note some packages are not required by the demo notebooks.

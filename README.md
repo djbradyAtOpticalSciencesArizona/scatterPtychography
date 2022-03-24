@@ -1,6 +1,7 @@
 # scatterPtychography
 
-Official repository for *Scatter Ptychography*. Passed tests on UA High Performance Computing (HPC).
+Official repository for [*Scatter Ptychography*](https://arxiv.org/abs/2203.12561), arXiv:2203.12561
+
 
 Core packages:
 * opencv

@@ -16,3 +16,4 @@ Folders & files:
 * Demo_simulation.ipynb: a demo of synthetic reconstruction of the resolution chart.
 * requirements.txt: all packages on UA HPC. Note some packages are not required by the demo notebooks.
 * USAF_Resolution_Chart_A1-780.jpg: simulation resolution chart. [Source](https://www.thorlabs.com/images/TabImages/USAF_Resolution_Chart_A1-780.jpg)
+* RemoteSensing: demo of experimental and synthetic reconstruction including data for remote sensing.

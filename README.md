@@ -1,6 +1,6 @@
 # scatterPtychography
 
-Official repository for [*Scatter Ptychography*](https://arxiv.org/abs/2203.12561), arXiv:2203.12561
+Official repository for [*Synthetic Aperture Scatter Imaging*]([https://arxiv.org/abs/2203.12561](https://ieeexplore.ieee.org/abstract/document/10306269))
 
 
 Core packages:

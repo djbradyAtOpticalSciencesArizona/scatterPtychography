@@ -1,6 +1,7 @@
 # Synthetic Aperture Scatter Imaging
 
-Official repository for [*Synthetic Aperture Scatter Imaging*]([https://arxiv.org/abs/2203.12561](https://ieeexplore.ieee.org/abstract/document/10306269))
+Official repository for [*Synthetic Aperture Scatter Imaging*]
+[Paper Link](https://ieeexplore.ieee.org/abstract/document/10306269))
 
 
 Core packages:
